@@ -1,6 +1,6 @@
 ### Hi I'm Yein👋
 Front-end Engineer
-<img src="https://img.shields.io/badge/<React>-<Blue>?style=for-the-badge&logo=appveyor" alt="React">
+<img src="https://img.shields.io/badge/React-Blue?style=for-the-badge&logo=appveyor" alt="React">
 <!--
 **ohyein00/ohyein00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
